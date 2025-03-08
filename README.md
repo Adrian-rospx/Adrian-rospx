@@ -1,8 +1,10 @@
 Hello, I am Adrian!
 
-I am a Student and aspiring Aerospace Engineer.
-- Currently learning about C/C++ and systems programming.
-- Passionate about physics, aerospace and software development
+Student and aspiring Aerospace Engineer.
+- Currently learning about C++, data structures and frontend basics.
+- Passionate about physics, aerospace and robotics.
+
+[Learner's log](https://github.com/Adrian-isp/Learning-log.git)
 
 My social media:
 
