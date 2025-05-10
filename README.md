@@ -17,5 +17,5 @@ Student and aspiring Aerospace Engineer.
 
 - [Software Documentation](https://github.com/Adrian-rospx/docs)
 - [Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures)
-- [Learning log](https://github.com/Adrian-rospx/Learning-log)
+- [Learning log](https://github.com/Adrian-rospx/learning-log)
 
