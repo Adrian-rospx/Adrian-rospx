@@ -6,6 +6,7 @@ Student and aspiring Aerospace Engineer.
 
 ### Projects:
 
+- [ASCII polygon rasterizer C++](https://github.com/Adrian-rospx/ascii-shape)
 - [Iris Flower Dataset Machine Learning](https://github.com/Adrian-rospx/iris-flower)
 - [Solar System API **React** app](https://github.com/Adrian-rospx/solar-system-site)
 - [Easter 2025 Egg coloring web app](https://github.com/Adrian-rospx/easter-egg)
