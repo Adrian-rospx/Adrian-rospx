@@ -6,12 +6,11 @@ Student and aspiring Aerospace Engineer.
 
 ### Projects:
 
+- [Java music player](https://github.com/Adrian-rospx/music-player)
 - [ASCII Polygon Rasterizer C++](https://github.com/Adrian-rospx/ascii-shape)
 - [Iris Flower Dataset Machine Learning](https://github.com/Adrian-rospx/iris-flower)
 - [Solar System API **React** app](https://github.com/Adrian-rospx/solar-system-site)
-- [Easter 2025 coloring web game](https://github.com/Adrian-rospx/easter-egg)
 - [Weather app with PySide6](https://github.com/Adrian-rospx/weather-app)
-- [Image pixelation program](https://github.com/Adrian-rospx/pixel-converter)  
 - [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli)  
 
 #### Other repositories:
