@@ -1,12 +1,11 @@
 Hello, I am Adrian!
 
-Student and aspiring Aerospace Engineer.
+Student, aspiring engineer and developer.
 - Curious about anything software related
 - Exploring Computer Graphics, Web Development and Data Analysis
 
 ### Projects:
 
-- [Java music player](https://github.com/Adrian-rospx/music-player)
 - [ASCII Polygon Rasterizer C++](https://github.com/Adrian-rospx/ascii-shape)
 - [Iris Flower Dataset Machine Learning](https://github.com/Adrian-rospx/iris-flower)
 - [Solar System API **React** app](https://github.com/Adrian-rospx/solar-system-site)
