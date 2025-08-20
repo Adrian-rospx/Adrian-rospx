@@ -1,11 +1,10 @@
-Hello, I am Adrian!
-
 Student, aspiring engineer and developer.
-- Curious about anything software related
-- Exploring Web Development and Data Analysis
+
+- Exploring Machine Learning and Web Development
 
 ### Projects:
 
+- [Color Tracker with OpenCV](https://github.com/Adrian-rospx/color-tracker)
 - [ASCII Polygon Rasterizer C++](https://github.com/Adrian-rospx/ascii-shape)
 - [Iris Flower Dataset Machine Learning](https://github.com/Adrian-rospx/iris-flower)
 - [Solar System API **React** app](https://github.com/Adrian-rospx/solar-system-site)
