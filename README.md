@@ -1,8 +1,8 @@
-Student, aspiring engineer and developer.
+Student, robotics enthusiast and aspiring software engineer.
 
-- Exploring Web Development, Systems Programming and Machine Learning
+- Exploring Web Development, Systems Programming and Control Theory
 
-### Projects:
+### Recent projects:
 
-- [TUI camera visualizer C++](https://github.com/Adrian-rospx/text-sight)
-- [Async chat server and client in C](https://github.com/Adrian-rospx/socket-chat)
+- [TUI webcam visualizer C++](https://github.com/adrian-rosu-54/text-sight)
+- [Async chat server and client in C](https://github.com/adrian-rosu-54/socket-chat)
