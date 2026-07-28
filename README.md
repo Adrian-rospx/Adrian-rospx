@@ -1,3 +1,3 @@
-Student, robotics enthusiast and aspiring software engineer.
+First year student of Computer Science and Engineering at Politehnica București.
 
-- Exploring Web Development, Systems Programming and Control Theory
+Full-stack Python developer, exploring Web Development and Systems Programming.
